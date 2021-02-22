@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">UITestExmple</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="hello_world_this_application_is_demonstrating_constraint_layout_user_and_ui_testing">Hello World\nThis application is demonstrating constraint layout user and ui testing.</string>
+</resources>
